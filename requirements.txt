@@ -1,0 +1,6 @@
+pandas
+sktime
+statsmodels
+plotly
+matplotlib
+scikit-base
